@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vijay Kamble</h1>
 <h2 align="center">A Fullstack Web Developer from Maharashtra,India.</h2>
 <h3>
-    A software developer with over 3.5 years of experience in Web Development and Passionate for learning new technologies.
+    A software developer with over 3.5 years of experience in Web Development.
 </h3>
 <p align="left">
 
